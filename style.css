@@ -113,3 +113,8 @@ header button {
 h1 {
     margin-bottom: auto;
 }
+
+.info img {
+    height: 50px;
+    width: 50px;
+}
