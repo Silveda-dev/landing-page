@@ -118,3 +118,21 @@ h1 {
     height: 50px;
     width: 50px;
 }
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px;
+    gap: 30px;
+}
+
+.image-boxes {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto 150px;
+    text-align: center;
+}
